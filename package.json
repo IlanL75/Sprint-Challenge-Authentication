@@ -6,10 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LambdaSchool/Sprint-Challenge-Authentication.git"
-  },
+  "repository": "git+https://github.com/LambdaSchool/Sprint-Challenge-Authentication.git",
   "keywords": [],
   "author": "Lambda School",
   "license": "ISC",
@@ -24,9 +21,9 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.3.0",
     "knex": "^0.15.2",
-    "sqlite3": "^4.0.2"
+    "sqlite3": "^4.0.3"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.18.5"
   }
 }
